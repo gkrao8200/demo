@@ -3,3 +3,6 @@ Emoji
 type option
 color
 vibrant
+
+dark mode
+admin panel
