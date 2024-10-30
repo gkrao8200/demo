@@ -6,3 +6,7 @@ vibrant
 
 dark mode
 admin panel
+
+payment added
+send money
+receive money
